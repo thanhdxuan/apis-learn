@@ -1,0 +1,3 @@
+SOURCE = /home/thanhdxn/Documents/OSLab/lab1
+all: 
+	+$(MAKE) all -C $(SOURCE)

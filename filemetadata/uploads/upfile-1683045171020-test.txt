@@ -1,0 +1,9 @@
+	NỘI DUNG THUYẾT TRÌNH:
+- Thành:
+	Trình bày sơ qua phần logic,...
+	1. Logic App: Server Adafruit, server firebase, ....
+	2. Kiến trúc App:
+- Hoàng:
+	Trình bày phần OhStemOhStem
+- Thắng:
+	Trình bày phần App
